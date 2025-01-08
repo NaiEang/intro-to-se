@@ -4,4 +4,4 @@ public class idk {
     }
 }
 
-// Nice one yayy
+// Nice one yayyffff
